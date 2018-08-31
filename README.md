@@ -1,2 +1,0 @@
-# wcs
-server config
